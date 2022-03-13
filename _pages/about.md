@@ -13,7 +13,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an applied scientist at Amazon. Also, I am doing my studies at the University of Tartu (Estonia) as a PhD student in a computation social science group. My work is based on an analysis of the patterns in social media that happened during protests and revolutions.
+I am an applied scientist at Amazon. Also, I am doing my studies at the University of Tartu (Estonia) as a PhD student in a [computational social science group](https://css.cs.ut.ee/). My work is based on an analysis of the patterns in social media that happened during protests and revolutions.
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
